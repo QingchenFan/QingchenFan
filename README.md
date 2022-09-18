@@ -1,6 +1,6 @@
 ### Hi  👋
 
-😉🎓Qingchen graduated from Northwest University and explored machine learning for brain age prediction during his master years.✨ ✨  
+###😉🎓Qingchen graduated from Northwest University and explored machine learning for brain age prediction during his master years.✨ ✨  ###
 
 🤔After which, he began his engineering career in the industry in 2021 but was still interested in the combination of machine learning and psychiatric research. 
 
