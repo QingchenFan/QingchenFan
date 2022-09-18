@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi  👋
 
-😉🎓Qingchen graduated from Northwest University and explored machine learning for brain age prediction during his master years. 🤔After which, he began his engineering career in the industry in 2021 but was still interested in the combination of machine learning and psychiatric research. Thus he joined Dr. Cui's lab as a research assistant to continue exploring the correlation between psychiatry and the ageing brain.
+😉🎓Qingchen graduated from Northwest University and explored machine learning for brain age prediction during his master years. 
+🤔After which, he began his engineering career in the industry in 2021 but was still interested in the combination of machine learning and psychiatric research. 
+😄Thus he joined Dr. Cui's lab as a research assistant to continue exploring the correlation between psychiatry and the ageing brain.✨
 <!--
 **QingchenFan/QingchenFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
