@@ -1,16 +1,16 @@
 ### Hi  👋
 
-### 😉🎓Qingchen graduated from Northwest University and explored machine learning for brain age prediction during his master years.✨ ✨  
+ <font size=3>😉🎓Qingchen graduated from Northwest University and explored machine learning for brain age prediction during his master years.✨ ✨  </font>
 
-### 🤔After which, he began his engineering career in the industry in 2021 but was still interested in the combination of machine learning and psychiatric research. 
+ 🤔After which, he began his engineering career in the industry in 2021 but was still interested in the combination of machine learning and psychiatric research. 
 
-### 😄Thus he joined Dr. Cui's lab as a research assistant to continue exploring the correlation between psychiatry and the ageing brain.✨
+ 😄Thus he joined Dr. Cui's lab as a research assistant to continue exploring the correlation between psychiatry and the ageing brain.✨
+ 
+ 🔭🔭2022-Present: Research Assistant, Chinese Institute for Brain Research, Beijing
 
-### 🔭🔭2022-Present: Research Assistant, Chinese Institute for Brain Research, Beijing
+ 🌱🌱2021-2022：Engineer, DiDi Global Inc, Beijing
 
-### 🌱🌱2021-2022：Engineer, DiDi Global Inc, Beijing
-
-### 😄😄2018-2021: M.S, School of Information Science & Technology, Northwest University
+ 😄😄2018-2021: M.S, School of Information Science & Technology, Northwest University
 
 ### 📫fqc_nwu@163.com
 <!--
