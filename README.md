@@ -13,7 +13,7 @@
 
  😄😄2018-2021: M.S, School of Information Science & Technology, Northwest University
 
-### 📫fqc_nwu@163.com
+### 📫qingchen_fan@163.com
 <!--
 **QingchenFan/QingchenFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
