@@ -7,7 +7,9 @@
  😄Thus he joined [**Dr. Zhoulab**](http://www.psych.cas.cn/team/yjy/index_90511.html?json=http://www.psych.cas.cn/sourcedb_psych_cas/cn/expert/202204/t20220401_6417881.json) as a doctoral student
  to continue exploring the correlation between psychiatry and the ageing brain.✨
  
- 🔭🔭2022-Present: Research Assistant, Chinese Institute for Brain Research, Beijing
+ 🔭🔭2023-Present：Ph.D., Institute of Psychology, Chinese Academy of Sciences
+ 
+ 🔭🔭2022-2023: Research Assistant, Chinese Institute for Brain Research, Beijing
 
  🌱🌱2021-2022：Engineer, DiDi Global Inc, Beijing
 
